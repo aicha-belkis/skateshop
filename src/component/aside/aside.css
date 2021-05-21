@@ -1,0 +1,15 @@
+.aside {
+    border: 1px solid #aaaaaa40;
+    border-radius: 4px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+}
+.media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

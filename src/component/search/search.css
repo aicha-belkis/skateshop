@@ -1,0 +1,6 @@
+.search {
+    padding: 20px 16px;
+    border: 1px solid #aaaaaa52;
+    margin: 10px;
+    flex-direction: row-reverse;
+}
